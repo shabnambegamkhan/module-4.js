@@ -1,0 +1,22 @@
+{
+  "name": "new-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "booblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dependency": "^0.0.1",
+    "math": "^0.0.3",
+    "random": "^4.1.0",
+    "readline-sync": "^1.4.10",
+    "rendom": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0"
+  }
+}
